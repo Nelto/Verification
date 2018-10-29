@@ -1,0 +1,7 @@
+C:\Users\Nelto\source\repos\Verification\Verification\bin\Debug\Verification.exe.config
+C:\Users\Nelto\source\repos\Verification\Verification\bin\Debug\Verification.exe
+C:\Users\Nelto\source\repos\Verification\Verification\bin\Debug\Verification.pdb
+C:\Users\Nelto\source\repos\Verification\Verification\obj\Debug\Verification.csproj.CoreCompileInputs.cache
+C:\Users\Nelto\source\repos\Verification\Verification\obj\Debug\Verification.exe
+C:\Users\Nelto\source\repos\Verification\Verification\obj\Debug\Verification.pdb
+C:\Users\Nelto\source\repos\Verification\Verification\obj\Debug\Verification.csprojResolveAssemblyReference.cache
